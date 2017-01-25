@@ -1,0 +1,2 @@
+# BuffedBlog
+A gaming blog
